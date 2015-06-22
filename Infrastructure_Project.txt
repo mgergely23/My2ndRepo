@@ -26,7 +26,7 @@ Tula (Alexey):
 	local Hyper-V images
 	some centrally available Hyper-V systems as well
 	
-	One note from me. Pre-sales might find the TestComplete 10 "Mobile Testing FAQ for Tier 1" useful as a reference (so that they don't have to launch mobile environments to find the answers): https://smartbear.atlassian.net/wiki/display/CC/Mobile+Testing+FAQ+for+Tier+1
+	One note from me. Pre-sales might find the TestComplete 10 "Mobile Testing FAQ for Tier 1" useful as a reference (so that they don't have to launch mobile environments to find the answers): 
 
 ALMComplete (Mike):
 	local Oracle Virtual Box images
