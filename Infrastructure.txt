@@ -1,4 +1,4 @@
-MAde a change here...can I see it in Collab as a changeset?
+MAde a change here...can I see it in Collab as a changeset in the web UI?
 
 How do we develop a mobile test environment shared by all locations?
 How do we design a test/replication environment which can be shared across locations & products?
