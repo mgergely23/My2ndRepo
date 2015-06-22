@@ -1,0 +1,55 @@
+
+
+How do we develop a mobile test environment shared by all locations?
+How do we design a test/replication environment which can be shared across locations & products?
+
+
+What does Sales need to support mobile/existing platform?
+
+
+What do you currently have:
+	Mobile - Greg Hansen: Android tablet/iPads setup to demonstrate software
+	Hardware becomes dated so no need to buy
+	* Emulators (Deja-Click Mobile Click)
+	
+	What does development/qa use for unit/system testing?
+	
+	Rackspace?
+	
+	Justin Collier (VMs to demo Collaborator)
+
+
+Collab Bev (John & Rick):
+	local VMWare images + Amazon hosting (up costs)
+	
+Tula (Alexey):
+	local Hyper-V images
+	some centrally available Hyper-V systems as well
+	
+	One note from me. Pre-sales might find the TestComplete 10 "Mobile Testing FAQ for Tier 1" useful as a reference (so that they don't have to launch mobile environments to find the answers): https://smartbear.atlassian.net/wiki/display/CC/Mobile+Testing+FAQ+for+Tier+1
+
+ALMComplete (Mike):
+	local Oracle Virtual Box images
+	Global Monitoring tool?
+	Load Data/Configuration Mgt
+	
+Alertsite (Jeannie):
+	Mobile/Wireless Provider Benchmarking
+	ISP Certifications
+
+SoapUI (Temil):
+	local VMWare images
+	MSDN license
+	
+
+
+Scope of Proj Lead:
+Cost (Licensing)
+Common platform
+Recommendation
+Work with IT (Carlos)
+
+
+
+
+	
